@@ -1,7 +1,7 @@
 Brackets Theme: Monokromatik-green
 ===
 
-This theme is based on the monochrome color scheme found on old monitors from the 1960's-1980's.
+This theme is a dark blue variation of the original monokromatic-green theme for Brackets.
 
 Screenshots
 ---
@@ -23,7 +23,7 @@ This extension requires Brackets Release 1.0 or newer.
 1. Open Brackets
 2. Open the Extension Manager
 3. Switch to "Themes" tab
-4. Search for "Monokromatik-green"
+4. Search for "Monokromatik-blue"
 5. Click "Install"
 
 License
