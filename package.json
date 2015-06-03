@@ -1,0 +1,20 @@
+{
+    "title": "Monokromatik-blue",
+    "name": "monokromatik-blue",
+    "description": "A dark blue variation of the original Monokromatik-green theme",
+    "version": "1.0.0",
+    "author": "Derek Skinner (http://derekskinner.tv/)",
+    "homepage": "https://github.com/derek-skinner/monokromatik-blue_theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/derek-skinner/monokromatik-blue_theme.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=1.0.0"
+    },
+    "theme": {
+        "file": "theme.css",
+        "dark": true
+    }
+}
