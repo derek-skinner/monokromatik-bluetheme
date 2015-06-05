@@ -1,4 +1,4 @@
-Brackets Theme: Monokromatik-green
+Brackets Theme: Monokromatik-blue
 ===
 
 This theme is a dark blue variation of the original monokromatic-green theme for Brackets.
