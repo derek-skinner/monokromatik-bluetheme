@@ -1,6 +1,8 @@
 Brackets Theme: Monokromatik-blue
 ===
 
+ADOBE HAS ANNOUNCED EOL FOR BRACKETS. THIS IS NOW DEPRECATED.
+
 This theme is a dark blue variation of the original monokromatic-green theme for Brackets.
 
 Screenshots
